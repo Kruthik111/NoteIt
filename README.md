@@ -14,8 +14,7 @@
 
 > AWS, NodeJS, MongoDB, Redis, PM2, 
 
-- [x] asdasds
-- [ ] asdasds
+
 
 ``` code
 Happy coding
