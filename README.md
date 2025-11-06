@@ -16,6 +16,7 @@
 
 > RBAC, Simple animations using Framer-motion, Option to install as an App, In App notification
 
+
 - [x] Project setup
 - [ ] Desgin and working build 
 - [ ] MVP develop
