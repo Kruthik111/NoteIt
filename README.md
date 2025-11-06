@@ -10,11 +10,15 @@
 
  ### BackEnd
 
- > [!NOTE]
+> AWS, NodeJS, MongoDB, Redis, PM2, GoogleSSO
 
-> AWS, NodeJS, MongoDB, Redis, PM2, 
+## Features to be implemented
 
+> RBAC, Simple animations using Framer-motion, Option to install as an App, In App notification
 
+- [x] Project setup
+- [ ] Desgin and working build 
+- [ ] MVP develop
 
 ``` code
 Happy coding
