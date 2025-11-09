@@ -4,7 +4,8 @@ function App() {
 
   return (
     <>
-      <h1>hello  biyatch</h1>
+    <div className="flex min-h-screen ">
+    </div>
     </>
   )
 }
